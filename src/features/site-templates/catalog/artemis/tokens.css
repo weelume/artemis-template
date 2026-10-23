@@ -1,0 +1,6 @@
+@import url('/templates/artemis/fonts/misans/MiSans-Regular.css');
+@import url('/templates/artemis/fonts/misans/MiSans-Bold.css');
+@font-face{font-family:'Artemis Poppins';font-style:normal;font-weight:400;font-display:swap;src:url('/templates/artemis/fonts/poppins-latin-400.woff2') format('woff2')}
+@font-face{font-family:'Artemis Poppins';font-style:normal;font-weight:600;font-display:swap;src:url('/templates/artemis/fonts/poppins-latin-600.woff2') format('woff2')}
+@font-face{font-family:'Artemis Poppins';font-style:normal;font-weight:700;font-display:swap;src:url('/templates/artemis/fonts/poppins-latin-700.woff2') format('woff2')}
+.artemis{--art-bg:#f8f7f3;--art-ink:#07165a;--art-text:#303737;--art-muted:#626866;--art-orange:#ff5900;--art-border:#deded5;--art-error:#a52d25;--art-glass:linear-gradient(135deg,#ffffffb8,#f1f0e780);--art-shadow:0 12px 30px #15223a0a;--art-round:18px;--art-container:1140px;--art-space:clamp(72px,10vw,148px);--art-heading:clamp(28px,3.2vw,44px);--art-section-title:clamp(24px,2.7vw,36px);--art-body:clamp(16px,1.2vw,17px);--art-font:'Artemis Poppins','Artemis MiSans',sans-serif;--art-title-font:var(--art-font)}

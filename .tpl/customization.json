@@ -1,0 +1,115 @@
+{
+  "$schema": "./schemas/customization.schema.json",
+  "format": "git-template-customization",
+  "formatVersion": "0.2.0",
+  "entries": [
+    {
+      "id": "brand",
+      "title": "修改品牌",
+      "description": "集中修改名称、邮箱、年份及宿主注入接口",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/artemis/config/brand.ts",
+          "kind": "file",
+          "purpose": "独立品牌配置"
+        },
+        {
+          "path": "src/features/site-templates/catalog/artemis/host.tsx",
+          "kind": "file",
+          "purpose": "可选品牌注入"
+        }
+      ],
+      "constraints": [
+        "品牌集中管理，独立源码不依赖消费方"
+      ],
+      "checks": [
+        "typecheck",
+        "test"
+      ]
+    },
+    {
+      "id": "content",
+      "title": "修改内容与双语",
+      "description": "作品、服务、FAQ、评价和日志内容",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/artemis/content.ts",
+          "kind": "file",
+          "purpose": "双语内容集合"
+        },
+        {
+          "path": "src/features/site-templates/catalog/artemis/pages",
+          "kind": "directory",
+          "purpose": "页面组合"
+        }
+      ],
+      "constraints": [
+        "中英文同时维护；新增页面同步元数据和路由"
+      ],
+      "checks": [
+        "typecheck",
+        "lint",
+        "build"
+      ]
+    },
+    {
+      "id": "theme",
+      "title": "修改主题与布局",
+      "description": "颜色、字体、圆角、响应式样式",
+      "files": [
+        {
+          "path": "src/features/site-templates/catalog/artemis/tokens.css",
+          "kind": "file",
+          "purpose": "主题令牌"
+        },
+        {
+          "path": "src/features/site-templates/catalog/artemis/theme.css",
+          "kind": "file",
+          "purpose": "响应式主题"
+        },
+        {
+          "path": "public/templates/artemis",
+          "kind": "directory",
+          "purpose": "本地素材与来源"
+        }
+      ],
+      "constraints": [
+        "图片变更同步来源与摘要；检查 1440 / 834 / 390 / 320 视口"
+      ],
+      "checks": [
+        "typecheck",
+        "test",
+        "build"
+      ]
+    },
+    {
+      "id": "market",
+      "title": "修改展示信息",
+      "description": "模板元数据与真实截图",
+      "files": [
+        {
+          "path": ".tpl/template.json",
+          "kind": "file",
+          "purpose": "市场 JSON"
+        },
+        {
+          "path": ".tpl/assets",
+          "kind": "directory",
+          "purpose": "展示截图"
+        },
+        {
+          "path": "src/features/site-templates/catalog/artemis/meta.ts",
+          "kind": "file",
+          "purpose": "运行注册"
+        }
+      ],
+      "constraints": [
+        "截图使用实际运行画面；不能宣称未获许可的素材可再分发"
+      ],
+      "checks": [
+        "typecheck",
+        "test"
+      ]
+    }
+  ]
+}

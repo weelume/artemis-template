@@ -1,0 +1,66 @@
+{
+  "screenshots": [
+    {
+      "file": "desktop-home.webp",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "desktop-works.webp",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "desktop-blog.webp",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "desktop-contact.webp",
+      "width": 1440,
+      "height": 1000
+    },
+    {
+      "file": "tablet-home.webp",
+      "width": 834,
+      "height": 1180
+    },
+    {
+      "file": "tablet-works.webp",
+      "width": 834,
+      "height": 1180
+    },
+    {
+      "file": "tablet-blog.webp",
+      "width": 834,
+      "height": 1180
+    },
+    {
+      "file": "tablet-contact.webp",
+      "width": 834,
+      "height": 1180
+    },
+    {
+      "file": "mobile-home.webp",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "mobile-works.webp",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "mobile-blog.webp",
+      "width": 390,
+      "height": 844
+    },
+    {
+      "file": "mobile-contact.webp",
+      "width": 390,
+      "height": 844
+    }
+  ],
+  "capture": "real browser viewport, no resizing",
+  "checkedAt": "2026-10-23T02:11:54.577Z"
+}

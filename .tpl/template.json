@@ -1,0 +1,247 @@
+{
+  "$schema": "./schemas/template.schema.json",
+  "format": "git-template",
+  "formatVersion": "0.2.0",
+  "id": "artemis",
+  "gitUrl": "https://github.com/weelume/artemis-template",
+  "name": "Artemis · 产品与视觉设计",
+  "localizedNames": {
+    "en": "Artemis · Product & visual designer"
+  },
+  "sceneId": "corporate-site",
+  "listed": false,
+  "tags": [
+    "设计师作品集",
+    "奶油白",
+    "海军蓝",
+    "橙色点缀",
+    "中英文",
+    "PC / iPad / H5"
+  ],
+  "summary": "为初创团队打造的设计师作品集：漂浮拼贴首屏、5 个完整案例、灵感实验室、设计日志与演示联系表单。",
+  "accentColor": "#ff5900",
+  "cover": "assets/desktop-home.webp",
+  "screenshots": [
+    {
+      "src": "assets/desktop-home.webp",
+      "alt": "Artemis desktop home",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-works.webp",
+      "alt": "Artemis desktop works",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-blog.webp",
+      "alt": "Artemis desktop blog",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/desktop-contact.webp",
+      "alt": "Artemis desktop contact",
+      "device": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-home.webp",
+      "alt": "Artemis tablet home",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-works.webp",
+      "alt": "Artemis tablet works",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-blog.webp",
+      "alt": "Artemis tablet blog",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/tablet-contact.webp",
+      "alt": "Artemis tablet contact",
+      "device": "tablet",
+      "width": 834,
+      "height": 1180,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-home.webp",
+      "alt": "Artemis mobile home",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-works.webp",
+      "alt": "Artemis mobile works",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-blog.webp",
+      "alt": "Artemis mobile blog",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site"
+    },
+    {
+      "src": "assets/mobile-contact.webp",
+      "alt": "Artemis mobile contact",
+      "device": "mobile",
+      "width": 390,
+      "height": 844,
+      "surfaceId": "site"
+    }
+  ],
+  "surfaces": [
+    {
+      "id": "site",
+      "name": "设计师作品集",
+      "platform": "pc",
+      "locales": [
+        "zh",
+        "en"
+      ],
+      "pages": [
+        {
+          "slug": "",
+          "title": "首页",
+          "localizedTitles": {
+            "en": "Home"
+          }
+        },
+        {
+          "slug": "works",
+          "title": "作品",
+          "localizedTitles": {
+            "en": "Works"
+          }
+        },
+        {
+          "slug": "playground",
+          "title": "实验室",
+          "localizedTitles": {
+            "en": "Playground"
+          }
+        },
+        {
+          "slug": "works/finflow",
+          "title": "finflow",
+          "localizedTitles": {
+            "en": "finflow"
+          }
+        },
+        {
+          "slug": "works/launchpad",
+          "title": "launchpad",
+          "localizedTitles": {
+            "en": "launchpad"
+          }
+        },
+        {
+          "slug": "works/healthsync",
+          "title": "healthsync",
+          "localizedTitles": {
+            "en": "healthsync"
+          }
+        },
+        {
+          "slug": "works/talentbridge",
+          "title": "talentbridge",
+          "localizedTitles": {
+            "en": "talentbridge"
+          }
+        },
+        {
+          "slug": "works/marketmingle",
+          "title": "marketmingle",
+          "localizedTitles": {
+            "en": "marketmingle"
+          }
+        },
+        {
+          "slug": "blog",
+          "title": "设计日志",
+          "localizedTitles": {
+            "en": "Journal"
+          }
+        },
+        {
+          "slug": "blog/designing-an-mvp",
+          "title": "设计 MVP",
+          "localizedTitles": {
+            "en": "Designing an MVP"
+          }
+        },
+        {
+          "slug": "blog/a-brand-that-feels-like-you",
+          "title": "品牌的表达",
+          "localizedTitles": {
+            "en": "A brand that feels like you"
+          }
+        },
+        {
+          "slug": "blog/a-homepage-with-a-purpose",
+          "title": "有目的的首页",
+          "localizedTitles": {
+            "en": "A homepage with a purpose"
+          }
+        },
+        {
+          "slug": "contact",
+          "title": "联系我们",
+          "localizedTitles": {
+            "en": "Contact"
+          }
+        },
+        {
+          "slug": "privacy",
+          "title": "隐私政策",
+          "localizedTitles": {
+            "en": "Privacy"
+          }
+        },
+        {
+          "slug": "terms",
+          "title": "使用条款",
+          "localizedTitles": {
+            "en": "Terms"
+          }
+        }
+      ]
+    }
+  ],
+  "license": {
+    "type": "restricted",
+    "file": "docs/LICENSE.md",
+    "summary": "原创实现与原站素材权利分别核对；未确认参考站素材再分发许可。",
+    "redistributionAllowed": false
+  },
+  "version": "1.0.0"
+}

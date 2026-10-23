@@ -1,0 +1,416 @@
+{
+  "reference": "https://artemis1.framer.website/",
+  "retrievedAt": "2026-10-23T01:38:47.063Z",
+  "assets": [
+    {
+      "url": "https://framerusercontent.com/images/NUTdkRLYEoKo3q0xaYuGtoBUg.jpg",
+      "alt": "",
+      "pages": [
+        "home"
+      ],
+      "file": "images/NUTdkRLYEoKo3q0xaYuGtoBUg.jpg",
+      "sha256": "f87463005f7d10ee06b4547458639c49cefa947851dd6a48766123143fb5381d",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/v9by2y3t7Fgrb9sTYB57w099Lk.jpg",
+      "alt": "Two figures on horseback under a tree against red background.",
+      "pages": [
+        "home",
+        "playground"
+      ],
+      "file": "images/v9by2y3t7Fgrb9sTYB57w099Lk.jpg",
+      "sha256": "82c4a334a9df5a91b881050ff07e446b5f592f230377d5f343960f132fbce5aa",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/GfQF9MJTOQgip3GZt7WYQlFA.png",
+      "alt": "",
+      "pages": [
+        "home"
+      ],
+      "file": "images/GfQF9MJTOQgip3GZt7WYQlFA.png",
+      "sha256": "e721a6894be08f86918f16fd8addd1cfab732fd54b67a71c47053d0bc1c960fd",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/sOV9oVng8G6eTcJz9mcCnJarYGE.jpg",
+      "alt": "Cassie &amp; Henry wedding save the date",
+      "pages": [
+        "home",
+        "playground"
+      ],
+      "file": "images/sOV9oVng8G6eTcJz9mcCnJarYGE.jpg",
+      "sha256": "13b7cf6073f25e47a30da88fb9fd44b36219faa6baccce6ed9e9786b5f8c2633",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/bItSXFPavhU2dit81jnbKTXR0JE.jpg",
+      "alt": "Grand Opening Rough Records: 6/3/25, 8PM",
+      "pages": [
+        "home",
+        "playground"
+      ],
+      "file": "images/bItSXFPavhU2dit81jnbKTXR0JE.jpg",
+      "sha256": "e81da14cc2fb6079e5941c9721beeec7701df74a2235cbdd1a50ecc7f7feadbb",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/mTIgomHRzjbLd0XLW5T7qOrhxU.jpg",
+      "alt": "Portofolio image",
+      "pages": [
+        "home"
+      ],
+      "file": "images/mTIgomHRzjbLd0XLW5T7qOrhxU.jpg",
+      "sha256": "9806c276904882551b59b666820afb125658ead2de3a4472540feed84b2e6a11",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/40YISsvwSJc4RxvqVYZATAMwlM.jpg",
+      "alt": "Portofolio image",
+      "pages": [
+        "home"
+      ],
+      "file": "images/40YISsvwSJc4RxvqVYZATAMwlM.jpg",
+      "sha256": "28f0f54cf067b7113e2506d57e2a0dea0ea6e82ba535296df09ef3e22c75a4f1",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/W6EKuDKZ6ilw7quzpU9IfkL248E.jpg",
+      "alt": "Portofolio image",
+      "pages": [
+        "home"
+      ],
+      "file": "images/W6EKuDKZ6ilw7quzpU9IfkL248E.jpg",
+      "sha256": "7843cdaa381ecf495e8cdecf97cd47e8d3b0ccc7f6ca36b6a9a51eac6a2249ba",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/5gmEX58ZB6E6bhMpCUhzutgd48.jpg",
+      "alt": "Vintage portrait of a Jack Russell Terrier dog with brown collar, painted by C. Reichork.",
+      "pages": [
+        "home"
+      ],
+      "file": "images/5gmEX58ZB6E6bhMpCUhzutgd48.jpg",
+      "sha256": "ff12bcb8802f6975005930f5610e74717231d6008f57c619357566e46b67dc38",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/EkqBLYkO1YzBqFZ5QtGCbxnKg.jpg",
+      "alt": "Portofolio image",
+      "pages": [
+        "home"
+      ],
+      "file": "images/EkqBLYkO1YzBqFZ5QtGCbxnKg.jpg",
+      "sha256": "496f14c86d2ab253ca92f26768b0ef19952b86017a94516d8da7c05a7d200844",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Hhqb6e3FMAW5LJAIbJ1sxl6Dnhg.jpg",
+      "alt": "Yard Sale: Books, clothing, records, furniture. Sunday, Aug 3, 8AM-2PM.",
+      "pages": [
+        "home",
+        "playground"
+      ],
+      "file": "images/Hhqb6e3FMAW5LJAIbJ1sxl6Dnhg.jpg",
+      "sha256": "8d7ce91d386b8b3de4d6d0b6f0fdeac332acd0d41a536c7256c5de16ee02861c",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/c6idvUjrSpE7PPwnzZRpEBQoLiA.png",
+      "alt": "Portofolio image",
+      "pages": [
+        "home"
+      ],
+      "file": "images/c6idvUjrSpE7PPwnzZRpEBQoLiA.png",
+      "sha256": "d7540e2b2ee935c59cbfef73da276ff9ff5ece369f917234cc55b3c11a2c0522",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/btVfj3uYz35Jcg8udVCo6IDHPIw.jpg",
+      "alt": "Smartphone displaying data analytics, colorful illustration background",
+      "pages": [
+        "home",
+        "works",
+        "works-finflow"
+      ],
+      "file": "images/btVfj3uYz35Jcg8udVCo6IDHPIw.jpg",
+      "sha256": "6ef07f6d896d4e07d9779e85303f41acf4571c717e1bb945b18fb01ec03ef7f9",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/I2DGsvE6BPFKwR3seUVB72UVU.png",
+      "alt": "Laptop displaying data graphs and charts. Business analytics concept.",
+      "pages": [
+        "home",
+        "works",
+        "works-launchpad"
+      ],
+      "file": "images/I2DGsvE6BPFKwR3seUVB72UVU.png",
+      "sha256": "b082c34af9eed16ba55dd7495b3eb5bfd6ef57417c9c999e8bc57e7c9498e514",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/HDv7K6e7EoqUaet9WhVVKwNMpA.png",
+      "alt": "Hand holding phone with saving goal app interface. Financial planning concept.",
+      "pages": [
+        "home",
+        "works",
+        "works-healthsync"
+      ],
+      "file": "images/HDv7K6e7EoqUaet9WhVVKwNMpA.png",
+      "sha256": "2044c81acc7d8bff1a2cac1174a9f6eace013cb9760120036322860e658d9f6c",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/gn78wQvecZqzcGzRKWGkV3NuVE.png",
+      "alt": "Abstract green oval shapes with a black line on beige background",
+      "pages": [
+        "home",
+        "works",
+        "works-talentbridge"
+      ],
+      "file": "images/gn78wQvecZqzcGzRKWGkV3NuVE.png",
+      "sha256": "1833d3471755ff4d21e4a911c0c1fb48c9fa31665231d9f8e3f8184654a32508",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/5bSgVOjwR5iEdfk692ONl843us.svg",
+      "alt": "image",
+      "pages": [
+        "home"
+      ],
+      "file": "images/5bSgVOjwR5iEdfk692ONl843us.svg",
+      "sha256": "26ce155ef64061bc7e4a6bdcf3772057e0d69cc023456a1987b8ede4df9bb437",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/peS3xlMBI5nrAInAViMhLPV75E.jpg",
+      "alt": "",
+      "pages": [
+        "home"
+      ],
+      "file": "images/peS3xlMBI5nrAInAViMhLPV75E.jpg",
+      "sha256": "d7f02acf21fb4aeaabd9458e55e6bf4d22ea07557b0a19ad4bf299eb8991e6ce",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/GTwC3pibWEsTjab4hIEkLaVFfQ.jpg",
+      "alt": "",
+      "pages": [
+        "home"
+      ],
+      "file": "images/GTwC3pibWEsTjab4hIEkLaVFfQ.jpg",
+      "sha256": "cc743f5318953d97ab70753f4567fd4a3949487068b0036f861d4379be5a37a8",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/SHIa3uWu2UD2oI3xk2CjDiAHAc.png",
+      "alt": "",
+      "pages": [
+        "home"
+      ],
+      "file": "images/SHIa3uWu2UD2oI3xk2CjDiAHAc.png",
+      "sha256": "0a8fbcd29ae09b20ed0951efccdc1cb92923fa8b945b591e0705810367ff3e85",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/C0KvfmTftD3so0Yz3V52LgidE.png",
+      "alt": "",
+      "pages": [
+        "home"
+      ],
+      "file": "images/C0KvfmTftD3so0Yz3V52LgidE.png",
+      "sha256": "0093ed2c6dc2f7c405b800b6f8462711e1f9129a09d8837f3f04b20e9e022b34",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Kjm316F3wf9TSJbhA0oEmjSPcRM.jpg",
+      "alt": "",
+      "pages": [
+        "home"
+      ],
+      "file": "images/Kjm316F3wf9TSJbhA0oEmjSPcRM.jpg",
+      "sha256": "bc4bddc313f9c1ef6d6de97135c9406819280bcea53d73238c5f42047f069783",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/e2kWTtL12IMp57QHHPh7cxc2MT4.png",
+      "alt": "",
+      "pages": [
+        "home"
+      ],
+      "file": "images/e2kWTtL12IMp57QHHPh7cxc2MT4.png",
+      "sha256": "48ea798ab314469dfbf8a9b921d2067faf011fe36e98d8e41e606b90ce1e5dfb",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/qAFpc8GUcqimvcbJK6CHIavWljU.png",
+      "alt": "",
+      "pages": [
+        "home",
+        "works",
+        "playground",
+        "works-finflow",
+        "works-launchpad",
+        "works-healthsync",
+        "works-talentbridge",
+        "works-marketmingle"
+      ],
+      "file": "images/qAFpc8GUcqimvcbJK6CHIavWljU.png",
+      "sha256": "3066f76fb3d74a7eac86c36203c973bab6476961c2b96a7631f235c8f2aa77c4",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/ryYuKQW3GckxzGoMeRmjRwAGOY4.png",
+      "alt": "Grand opening poster leaning against a wall, modern design",
+      "pages": [
+        "works",
+        "works-marketmingle"
+      ],
+      "file": "images/ryYuKQW3GckxzGoMeRmjRwAGOY4.png",
+      "sha256": "6ead214ef1beb0dfba898bc60abddc7ca3b8a36651a239b7a405ca61d13f70e5",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/oJrMVtzVlf3OpfuM7qW1oEnF0.jpg",
+      "alt": "Thank you Jonathan graphic on a bag",
+      "pages": [
+        "playground"
+      ],
+      "file": "images/oJrMVtzVlf3OpfuM7qW1oEnF0.jpg",
+      "sha256": "a8e4dcb4cfe073a0791b6af975e2d16ab36a4c9ef996097abb831e2e77174a6f",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/Jlmy9GssymSXpimzy3lhEtHpHQ.jpg",
+      "alt": "Stylized village on a hill at sunset",
+      "pages": [
+        "playground"
+      ],
+      "file": "images/Jlmy9GssymSXpimzy3lhEtHpHQ.jpg",
+      "sha256": "1764bac81e695b56178e25261e0b5696804f644c376830fe8a932d4e254442ba",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/oFUiDnR7bId95hPEyF8rVPUs4.jpg",
+      "alt": "Woman with green eyeshadow holds pink flower.",
+      "pages": [
+        "playground"
+      ],
+      "file": "images/oFUiDnR7bId95hPEyF8rVPUs4.jpg",
+      "sha256": "6d56ca4249a2133c7fccef9596604dc2c0774999cc9bd5600b1628d3794dc7e4",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/XKUTqz5sQsbbsadODcJrEXJ0Q.jpg",
+      "alt": "Autumn scene with golden tree and village.",
+      "pages": [
+        "playground"
+      ],
+      "file": "images/XKUTqz5sQsbbsadODcJrEXJ0Q.jpg",
+      "sha256": "447209a6efabe1d0d6ff9909d0c0aaaca447592220ec4fc80e254398510bb60b",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/o0voYCab2y2stJEC08ESTcez8.jpg",
+      "alt": "Café Pompadieu: 400 Bleecker St, 6A-8P, PPDIEU©",
+      "pages": [
+        "playground"
+      ],
+      "file": "images/o0voYCab2y2stJEC08ESTcez8.jpg",
+      "sha256": "6a95f1cb69dfced13770fdbf6074eaab41f0c35e1fa92d31cc557e84491a160d",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/PyXVyZeZTk1DWyXOZVOsoRpAT5A.jpg",
+      "alt": "Abstract composition with geometric shapes and lines.",
+      "pages": [
+        "playground"
+      ],
+      "file": "images/PyXVyZeZTk1DWyXOZVOsoRpAT5A.jpg",
+      "sha256": "d4ff31e6800219f748a1dd1ad75c09e148cec0e3ad127782299c9d4d45c72d67",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/TNEBwlhYsp4aDvP2EiWJ6AnWDU.jpg",
+      "alt": "Ableton Springs &amp; Spa logo with services",
+      "pages": [
+        "playground"
+      ],
+      "file": "images/TNEBwlhYsp4aDvP2EiWJ6AnWDU.jpg",
+      "sha256": "0d127de12b2ff8fee6d68c540773be54084e55422f7e75a626effa27c5dc1930",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/rwgAlzyxkL9gln74d2tcZF8A5nE.jpg",
+      "alt": "",
+      "pages": [
+        "works-finflow",
+        "works-launchpad",
+        "works-healthsync",
+        "works-talentbridge",
+        "works-marketmingle"
+      ],
+      "file": "images/rwgAlzyxkL9gln74d2tcZF8A5nE.jpg",
+      "sha256": "e4449f16085749518834fdd0df24811932646b248592b466000eb77c4c0a1f48",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/qZKIzIb4tE9gYRrrVBCwFQ7ibQ.png",
+      "alt": "",
+      "pages": [
+        "works-finflow",
+        "works-launchpad",
+        "works-healthsync",
+        "works-talentbridge",
+        "works-marketmingle"
+      ],
+      "file": "images/qZKIzIb4tE9gYRrrVBCwFQ7ibQ.png",
+      "sha256": "04cb511e6f02ac98bfeaf8c9c98f3fc06a2edd4ed845b3856162e7f10dea28a6",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/u6QB3JwBMb5Wyk3j61npB7fqio.jpg",
+      "alt": "",
+      "pages": [
+        "works-finflow",
+        "works-launchpad",
+        "works-healthsync",
+        "works-talentbridge",
+        "works-marketmingle"
+      ],
+      "file": "images/u6QB3JwBMb5Wyk3j61npB7fqio.jpg",
+      "sha256": "b4af7ed55b3bca0c468bafff0803baededb8b92d7d65aee2739e4161988a44f2",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/u35VNyZjbnYm2GnwW5VNcdI2r4.jpg",
+      "alt": "",
+      "pages": [
+        "works-finflow",
+        "works-launchpad",
+        "works-healthsync",
+        "works-talentbridge",
+        "works-marketmingle"
+      ],
+      "file": "images/u35VNyZjbnYm2GnwW5VNcdI2r4.jpg",
+      "sha256": "2e5d96e0a2eb828358950f1ca7319603df6cc5f8d50c468f4b051bded6384939",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    },
+    {
+      "url": "https://framerusercontent.com/images/lrALiMJudHsVdefdUmMl6O8T9cE.jpg",
+      "alt": "",
+      "pages": [
+        "works-finflow",
+        "works-launchpad",
+        "works-healthsync",
+        "works-talentbridge",
+        "works-marketmingle"
+      ],
+      "file": "images/lrALiMJudHsVdefdUmMl6O8T9cE.jpg",
+      "sha256": "a57361bbc65825b052ec0d5f4c41fe376257b4c6e5868354016dc8e19f7d9d0e",
+      "license": "参考站展示素材；未确认独立再分发许可"
+    }
+  ]
+}

@@ -1,0 +1,1264 @@
+{
+  "checkedAt": "2026-10-23T02:15:00.160Z",
+  "routes": [
+    {
+      "device": "desktop",
+      "path": "",
+      "broken": [],
+      "h1": "让产品与视觉\n为好想法发光",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/",
+      "broken": [],
+      "h1": "Product &\nVisual Designer",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "works",
+      "broken": [],
+      "h1": "作品",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/works",
+      "broken": [],
+      "h1": "Works",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "playground",
+      "broken": [],
+      "h1": "灵感实验室",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/playground",
+      "broken": [],
+      "h1": "Playground",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "works/finflow",
+      "broken": [],
+      "h1": "FinFlow",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/works/finflow",
+      "broken": [],
+      "h1": "FinFlow",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "works/launchpad",
+      "broken": [],
+      "h1": "LaunchPad",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/works/launchpad",
+      "broken": [],
+      "h1": "LaunchPad",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "works/healthsync",
+      "broken": [],
+      "h1": "HealthSync",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/works/healthsync",
+      "broken": [],
+      "h1": "HealthSync",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "works/talentbridge",
+      "broken": [],
+      "h1": "TalentBridge",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/works/talentbridge",
+      "broken": [],
+      "h1": "TalentBridge",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "works/marketmingle",
+      "broken": [],
+      "h1": "MarketMingle",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/works/marketmingle",
+      "broken": [],
+      "h1": "MarketMingle",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "blog",
+      "broken": [],
+      "h1": "设计日志",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/blog",
+      "broken": [],
+      "h1": "Journal",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "blog/designing-an-mvp",
+      "broken": [],
+      "h1": "让 MVP 回到用户真正需要的事",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/blog/designing-an-mvp",
+      "broken": [],
+      "h1": "Designing an MVP around what users need",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "blog/a-brand-that-feels-like-you",
+      "broken": [],
+      "h1": "让品牌拥有自己的表达",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/blog/a-brand-that-feels-like-you",
+      "broken": [],
+      "h1": "A brand that feels like you",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "blog/a-homepage-with-a-purpose",
+      "broken": [],
+      "h1": "让首页的每一屏都有目的",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/blog/a-homepage-with-a-purpose",
+      "broken": [],
+      "h1": "Give every section a purpose",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "contact",
+      "broken": [],
+      "h1": "一起创造点什么",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/contact",
+      "broken": [],
+      "h1": "Let’s make it happen",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "privacy",
+      "broken": [],
+      "h1": "隐私政策",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/privacy",
+      "broken": [],
+      "h1": "Privacy policy",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "terms",
+      "broken": [],
+      "h1": "使用条款",
+      "height": 1000,
+      "lang": "zh-CN",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "desktop",
+      "path": "en/terms",
+      "broken": [],
+      "h1": "Terms of use",
+      "height": 1000,
+      "lang": "en",
+      "scrollWidth": 1425,
+      "width": 1440
+    },
+    {
+      "device": "tablet",
+      "path": "",
+      "broken": [],
+      "h1": "让产品与视觉\n为好想法发光",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/",
+      "broken": [],
+      "h1": "Product &\nVisual Designer",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "works",
+      "broken": [],
+      "h1": "作品",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/works",
+      "broken": [],
+      "h1": "Works",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "playground",
+      "broken": [],
+      "h1": "灵感实验室",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/playground",
+      "broken": [],
+      "h1": "Playground",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "works/finflow",
+      "broken": [],
+      "h1": "FinFlow",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/works/finflow",
+      "broken": [],
+      "h1": "FinFlow",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "works/launchpad",
+      "broken": [],
+      "h1": "LaunchPad",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/works/launchpad",
+      "broken": [],
+      "h1": "LaunchPad",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "works/healthsync",
+      "broken": [],
+      "h1": "HealthSync",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/works/healthsync",
+      "broken": [],
+      "h1": "HealthSync",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "works/talentbridge",
+      "broken": [],
+      "h1": "TalentBridge",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/works/talentbridge",
+      "broken": [],
+      "h1": "TalentBridge",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "works/marketmingle",
+      "broken": [],
+      "h1": "MarketMingle",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/works/marketmingle",
+      "broken": [],
+      "h1": "MarketMingle",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "blog",
+      "broken": [],
+      "h1": "设计日志",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/blog",
+      "broken": [],
+      "h1": "Journal",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "blog/designing-an-mvp",
+      "broken": [],
+      "h1": "让 MVP 回到用户真正需要的事",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/blog/designing-an-mvp",
+      "broken": [],
+      "h1": "Designing an MVP around what users need",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "blog/a-brand-that-feels-like-you",
+      "broken": [],
+      "h1": "让品牌拥有自己的表达",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/blog/a-brand-that-feels-like-you",
+      "broken": [],
+      "h1": "A brand that feels like you",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "blog/a-homepage-with-a-purpose",
+      "broken": [],
+      "h1": "让首页的每一屏都有目的",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/blog/a-homepage-with-a-purpose",
+      "broken": [],
+      "h1": "Give every section a purpose",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "contact",
+      "broken": [],
+      "h1": "一起创造点什么",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/contact",
+      "broken": [],
+      "h1": "Let’s make it happen",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "privacy",
+      "broken": [],
+      "h1": "隐私政策",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/privacy",
+      "broken": [],
+      "h1": "Privacy policy",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "terms",
+      "broken": [],
+      "h1": "使用条款",
+      "height": 1180,
+      "lang": "zh-CN",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "tablet",
+      "path": "en/terms",
+      "broken": [],
+      "h1": "Terms of use",
+      "height": 1180,
+      "lang": "en",
+      "scrollWidth": 819,
+      "width": 834
+    },
+    {
+      "device": "mobile",
+      "path": "",
+      "broken": [],
+      "h1": "让产品与视觉\n为好想法发光",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/",
+      "broken": [],
+      "h1": "Product &\nVisual Designer",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "works",
+      "broken": [],
+      "h1": "作品",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/works",
+      "broken": [],
+      "h1": "Works",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "playground",
+      "broken": [],
+      "h1": "灵感实验室",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/playground",
+      "broken": [],
+      "h1": "Playground",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "works/finflow",
+      "broken": [],
+      "h1": "FinFlow",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/works/finflow",
+      "broken": [],
+      "h1": "FinFlow",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "works/launchpad",
+      "broken": [],
+      "h1": "LaunchPad",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/works/launchpad",
+      "broken": [],
+      "h1": "LaunchPad",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "works/healthsync",
+      "broken": [],
+      "h1": "HealthSync",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/works/healthsync",
+      "broken": [],
+      "h1": "HealthSync",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "works/talentbridge",
+      "broken": [],
+      "h1": "TalentBridge",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/works/talentbridge",
+      "broken": [],
+      "h1": "TalentBridge",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "works/marketmingle",
+      "broken": [],
+      "h1": "MarketMingle",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/works/marketmingle",
+      "broken": [],
+      "h1": "MarketMingle",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "blog",
+      "broken": [],
+      "h1": "设计日志",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/blog",
+      "broken": [],
+      "h1": "Journal",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "blog/designing-an-mvp",
+      "broken": [],
+      "h1": "让 MVP 回到用户真正需要的事",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/blog/designing-an-mvp",
+      "broken": [],
+      "h1": "Designing an MVP around what users need",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "blog/a-brand-that-feels-like-you",
+      "broken": [],
+      "h1": "让品牌拥有自己的表达",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/blog/a-brand-that-feels-like-you",
+      "broken": [],
+      "h1": "A brand that feels like you",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "blog/a-homepage-with-a-purpose",
+      "broken": [],
+      "h1": "让首页的每一屏都有目的",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/blog/a-homepage-with-a-purpose",
+      "broken": [],
+      "h1": "Give every section a purpose",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "contact",
+      "broken": [],
+      "h1": "一起创造点什么",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/contact",
+      "broken": [],
+      "h1": "Let’s make it happen",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "privacy",
+      "broken": [],
+      "h1": "隐私政策",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/privacy",
+      "broken": [],
+      "h1": "Privacy policy",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "terms",
+      "broken": [],
+      "h1": "使用条款",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "mobile",
+      "path": "en/terms",
+      "broken": [],
+      "h1": "Terms of use",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "device": "narrow",
+      "path": "",
+      "broken": [],
+      "h1": "让产品与视觉\n为好想法发光",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/",
+      "broken": [],
+      "h1": "Product &\nVisual Designer",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "works",
+      "broken": [],
+      "h1": "作品",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/works",
+      "broken": [],
+      "h1": "Works",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "playground",
+      "broken": [],
+      "h1": "灵感实验室",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/playground",
+      "broken": [],
+      "h1": "Playground",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "works/finflow",
+      "broken": [],
+      "h1": "FinFlow",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/works/finflow",
+      "broken": [],
+      "h1": "FinFlow",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "works/launchpad",
+      "broken": [],
+      "h1": "LaunchPad",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/works/launchpad",
+      "broken": [],
+      "h1": "LaunchPad",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "works/healthsync",
+      "broken": [],
+      "h1": "HealthSync",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/works/healthsync",
+      "broken": [],
+      "h1": "HealthSync",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "works/talentbridge",
+      "broken": [],
+      "h1": "TalentBridge",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/works/talentbridge",
+      "broken": [],
+      "h1": "TalentBridge",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "works/marketmingle",
+      "broken": [],
+      "h1": "MarketMingle",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/works/marketmingle",
+      "broken": [],
+      "h1": "MarketMingle",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "blog",
+      "broken": [],
+      "h1": "设计日志",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/blog",
+      "broken": [],
+      "h1": "Journal",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "blog/designing-an-mvp",
+      "broken": [],
+      "h1": "让 MVP 回到用户真正需要的事",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/blog/designing-an-mvp",
+      "broken": [],
+      "h1": "Designing an MVP around what users need",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "blog/a-brand-that-feels-like-you",
+      "broken": [],
+      "h1": "让品牌拥有自己的表达",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/blog/a-brand-that-feels-like-you",
+      "broken": [],
+      "h1": "A brand that feels like you",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "blog/a-homepage-with-a-purpose",
+      "broken": [],
+      "h1": "让首页的每一屏都有目的",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/blog/a-homepage-with-a-purpose",
+      "broken": [],
+      "h1": "Give every section a purpose",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "contact",
+      "broken": [],
+      "h1": "一起创造点什么",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/contact",
+      "broken": [],
+      "h1": "Let’s make it happen",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "privacy",
+      "broken": [],
+      "h1": "隐私政策",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/privacy",
+      "broken": [],
+      "h1": "Privacy policy",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "terms",
+      "broken": [],
+      "h1": "使用条款",
+      "height": 844,
+      "lang": "zh-CN",
+      "scrollWidth": 305,
+      "width": 320
+    },
+    {
+      "device": "narrow",
+      "path": "en/terms",
+      "broken": [],
+      "h1": "Terms of use",
+      "height": 844,
+      "lang": "en",
+      "scrollWidth": 305,
+      "width": 320
+    }
+  ],
+  "interactions": [
+    {
+      "name": "mobile menu navigation",
+      "passed": true
+    },
+    {
+      "name": "journal filter",
+      "passed": true
+    },
+    {
+      "name": "locale preserves route / query / fragment",
+      "passed": true
+    },
+    {
+      "name": "expand fifth project",
+      "passed": true
+    },
+    {
+      "name": "collapse projects",
+      "passed": true
+    },
+    {
+      "name": "FAQ opens",
+      "passed": true
+    },
+    {
+      "name": "download remains demonstration",
+      "passed": true
+    },
+    {
+      "name": "form invalid fields",
+      "passed": true
+    },
+    {
+      "name": "form valid remains unsent",
+      "passed": true
+    },
+    {
+      "name": "gallery modal opens",
+      "passed": true
+    },
+    {
+      "name": "gallery advances",
+      "passed": true
+    },
+    {
+      "name": "gallery keyboard navigation",
+      "passed": true
+    },
+    {
+      "name": "gallery escape closes",
+      "passed": true
+    }
+  ],
+  "console": [],
+  "limitations": [
+    "截图对应最终望远镜插画版本，已补验首页；其余页面业务源码未变。",
+    "浏览器不提供减少动态效果的环境模拟；代码使用系统偏好并提供 CSS 降动效规则。"
+  ]
+}
