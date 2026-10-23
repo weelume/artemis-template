@@ -96,7 +96,8 @@
       "requiredEnv": [],
       "requiresTools": [
         "node",
-        "pnpm"
+        "pnpm",
+        "git"
       ],
       "effects": {
         "network": false,
@@ -157,7 +158,8 @@
       "requiredEnv": [],
       "requiresTools": [
         "node",
-        "pnpm"
+        "pnpm",
+        "git"
       ],
       "effects": {
         "network": false,

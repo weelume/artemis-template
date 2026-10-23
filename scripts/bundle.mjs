@@ -1,14 +1,16 @@
 import { execFile } from 'node:child_process'
 import { promisify } from 'node:util'
 import { createHash } from 'node:crypto'
-import { readFile,writeFile,mkdir,readdir } from 'node:fs/promises'
+import { readFile,writeFile,mkdir } from 'node:fs/promises'
 import { resolve,join } from 'node:path'
 import { invocation } from '../.tpl/tools/doctor.mjs'
 const exec=promisify(execFile),root=resolve(import.meta.dirname,'..'),output=join(root,'.work/packages')
 await mkdir(output,{recursive:true})
 const command=await invocation('pnpm',['pack','--pack-destination',output])
 await exec(command.file,command.args,{cwd:root,windowsHide:true,maxBuffer:1024*1024})
-const name=(await readdir(output)).find(name=>name.endsWith('.tgz'))
+// 精确选择本次版本，防止输出目录中的历史归档被误报为新包。
+const manifest=JSON.parse(await readFile(join(root,'package.json'),'utf8'))
+const name=manifest.name+'-'+manifest.version+'.tgz'
 if(!name)throw new Error('No bundle created')
 const archive=join(output,name),sha256=createHash('sha256').update(await readFile(archive)).digest('hex')
 let sourceCommit=null
