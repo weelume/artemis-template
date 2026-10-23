@@ -3,15 +3,15 @@
   "format": "git-template-verification",
   "formatVersion": "0.2.0",
   "status": "passed",
-  "checkedAt": "2026-10-23T04:01:03.246Z",
+  "checkedAt": "2026-10-23T04:47:09.631Z",
   "sourceCommit": null,
-  "sourceDigest": "6e7bf6c39d1f5600fc2233409ab54aa0d766e4985c5c19207d99a5fba1b8fae8",
+  "sourceDigest": "1ab4c2b3a3455fd0886f7fe259f146830473174717dfe0093c15ae7591be47ec",
   "environment": {
     "platform": "linux (local WSL, Linux filesystem)",
     "arch": "x64",
     "node": "24.16.0",
     "packageManager": "pnpm@9.15.4",
-    "cleanDirectory": true,
+    "cleanDirectory": false,
     "localGitClone": false
   },
   "checks": [
@@ -25,8 +25,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-23T03:58:13.245Z",
-      "finishedAt": "2026-10-23T03:58:15.803Z"
+      "startedAt": "2026-10-23T04:45:17.213Z",
+      "finishedAt": "2026-10-23T04:45:18.871Z"
     },
     {
       "id": "lint",
@@ -38,8 +38,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-23T03:58:15.805Z",
-      "finishedAt": "2026-10-23T03:58:19.855Z"
+      "startedAt": "2026-10-23T04:45:18.872Z",
+      "finishedAt": "2026-10-23T04:45:20.821Z"
     },
     {
       "id": "test",
@@ -51,8 +51,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-23T03:58:19.856Z",
-      "finishedAt": "2026-10-23T03:58:21.930Z"
+      "startedAt": "2026-10-23T04:45:20.822Z",
+      "finishedAt": "2026-10-23T04:45:22.507Z"
     },
     {
       "id": "build",
@@ -64,8 +64,8 @@
       ],
       "status": "passed",
       "exitCode": 0,
-      "startedAt": "2026-10-23T03:58:21.931Z",
-      "finishedAt": "2026-10-23T03:58:47.133Z"
+      "startedAt": "2026-10-23T04:45:22.508Z",
+      "finishedAt": "2026-10-23T04:45:42.733Z"
     }
   ],
   "services": [
@@ -73,13 +73,12 @@
       "id": "web",
       "status": "passed",
       "stopped": true,
-      "checkedAt": "2026-10-23T04:01:03.246Z"
+      "checkedAt": "2026-10-23T04:47:09.631Z"
     }
   ],
   "limitations": [
-    "未进行独立 Git 克隆验收；在新建独立目录安装并验证。",
-    "图片素材再分发许可尚未核实，未公开市场上架或商业授权。",
-    "Next.js 提示 ESLint 未注册 Next 插件；独立 ESLint、类型、测试及构建均已通过。",
-    "系统减少动态效果未通过浏览器模拟验证；实现已接入对应偏好。"
+    "在已有本地 WSL 验收工程中验证，未执行新 Git 克隆。",
+    "系统减少动态效果未通过浏览器媒体偏好模拟；已静态检查实现。",
+    "参考素材再分发许可未确认；不代表商业授权。"
   ]
 }
